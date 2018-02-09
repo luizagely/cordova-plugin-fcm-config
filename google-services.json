@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "968891641339",
+    "firebase_url": "https://agely-notifications.firebaseio.com",
+    "project_id": "agely-notifications",
+    "storage_bucket": "agely-notifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968891641339:android:c17035b501ac7de3",
+        "android_client_info": {
+          "package_name": "app.agely.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968891641339-mbboq9gj6k1fdscagf0ler7s7mk3prb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoFV2Mo0NwAPLRdCb8V0jH8jw6mFlshSs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
