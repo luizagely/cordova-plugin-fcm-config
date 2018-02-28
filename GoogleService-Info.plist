@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>968891641339-p5d0eukplpkvq6adnngjbl8v7lupm8u1.apps.googleusercontent.com</string>
+	<string>907922274560-p1m89om7gmccp8jh6prf6he8ljunaeas.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.968891641339-p5d0eukplpkvq6adnngjbl8v7lupm8u1</string>
+	<string>com.googleusercontent.apps.907922274560-p1m89om7gmccp8jh6prf6he8ljunaeas</string>
 	<key>API_KEY</key>
-	<string>AIzaSyA9TxY_dRqG-ByElrckhBal6iDie7cl-pM</string>
+	<string>AIzaSyD1bmkbWtuxtoylvcWD4z1g-7K0AHHfuGI</string>
 	<key>GCM_SENDER_ID</key>
-	<string>968891641339</string>
+	<string>907922274560</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>app.agely.mobile</string>
+	<string>com.phonegap.ectare</string>
 	<key>PROJECT_ID</key>
-	<string>agely-notifications</string>
+	<string>ectare-8ad94</string>
 	<key>STORAGE_BUCKET</key>
-	<string>agely-notifications.appspot.com</string>
+	<string>ectare-8ad94.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true></true>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:968891641339:ios:c17035b501ac7de3</string>
+	<string>1:907922274560:ios:fb800a413d2416f6</string>
 	<key>DATABASE_URL</key>
-	<string>https://agely-notifications.firebaseio.com</string>
+	<string>https://ectare-8ad94.firebaseio.com</string>
 </dict>
 </plist>
